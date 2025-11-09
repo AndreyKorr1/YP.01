@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akory\\source\\repos\\222_Korygin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddUserPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AddUserPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|c:\\users\\akory\\source\\repos\\222_korygin\\222_korygin\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_korygin\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AdminPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AdminPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|c:\\users\\akory\\source\\repos\\222_korygin\\222_korygin\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_korygin\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddCategoryPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AddCategoryPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\ChangePassPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\ChangePassPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\BaseModel.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\BaseModel.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AuthPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AuthPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|c:\\users\\akory\\source\\repos\\222_korygin\\222_korygin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_korygin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|c:\\users\\akory\\source\\repos\\222_korygin\\222_korygin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_korygin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|c:\\users\\akory\\source\\repos\\222_korygin\\222_korygin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_korygin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\ChangePassPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\ChangePassPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\DiagrammPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\DiagrammPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AuthPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AuthPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|c:\\users\\akory\\source\\repos\\222_korygin\\222_korygin\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_korygin\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddPaymentPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AddPaymentPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\BaseModel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\BaseModel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddCategoryPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AddCategoryPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\CategoryTabPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\CategoryTabPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddUserPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AddUserPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UserPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\UserPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\DiagrammPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\DiagrammPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UsersTabPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\UsersTabPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UsersTabPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\UsersTabPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\RegPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\RegPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddPaymentPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\AddPaymentPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\PaymentTabPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\PaymentTabPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\PaymentTabPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\PaymentTabPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UserPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\UserPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\CategoryTabPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E35287-E2C7-4843-A35C-CF9ADAED8B69}|222_Korygin\\222_Korygin.csproj|solutionrelative:222_Korygin\\Pages\\CategoryTabPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Dark.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Dark.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Dark.xaml",
+              "RelativeToolTip": "222_Korygin\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T13:32:46.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\App.config",
+              "RelativeDocumentMoniker": "222_Korygin\\App.config",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\App.config",
+              "RelativeToolTip": "222_Korygin\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-09T13:16:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Light.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Light.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Light.xaml",
+              "RelativeToolTip": "222_Korygin\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T12:49:38.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T06:10:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T12:01:15.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\BaseModel.Context.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\BaseModel.Context.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\BaseModel.Context.cs",
+              "RelativeToolTip": "222_Korygin\\BaseModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:59:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangePassPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\ChangePassPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\ChangePassPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\ChangePassPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\ChangePassPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:20:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\MainWindow.xaml",
+              "RelativeToolTip": "222_Korygin\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T12:01:16.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AdminPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AdminPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T17:06:54.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddUserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddUserPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AddUserPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddUserPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\AddUserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T17:09:21.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\App.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\App.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\App.xaml",
+              "RelativeToolTip": "222_Korygin\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T13:16:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\App.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\App.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:16:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiagrammPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\DiagrammPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\DiagrammPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\DiagrammPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\DiagrammPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:43:48.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:11:32.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddPaymentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddPaymentPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AddPaymentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddPaymentPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\AddPaymentPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:05:45.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryTabPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\CategoryTabPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\CategoryTabPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\CategoryTabPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\CategoryTabPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T17:46:21.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddUserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddUserPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AddUserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddUserPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\AddUserPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:43:28.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePassPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\ChangePassPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\ChangePassPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\ChangePassPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\ChangePassPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T18:20:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AuthPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AuthPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\AuthPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:10:58.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCategoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddCategoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AddCategoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddCategoryPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\AddCategoryPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:50:18.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\UserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UserPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\UserPage.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:07:30.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DiagrammPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\DiagrammPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\DiagrammPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\DiagrammPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\DiagrammPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T17:38:34.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddPaymentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddPaymentPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AddPaymentPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddPaymentPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\AddPaymentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T18:03:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentTabPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\PaymentTabPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\PaymentTabPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\PaymentTabPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\PaymentTabPage.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:03:10.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentTabPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\PaymentTabPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\PaymentTabPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\PaymentTabPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\PaymentTabPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T18:02:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UserPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UserPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T17:07:27.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryTabPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\CategoryTabPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\CategoryTabPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\CategoryTabPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\CategoryTabPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:46:42.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseModel.edmx",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\BaseModel.edmx",
+              "RelativeDocumentMoniker": "222_Korygin\\BaseModel.edmx",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\BaseModel.edmx",
+              "RelativeToolTip": "222_Korygin\\BaseModel.edmx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-29T17:59:04.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddCategoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddCategoryPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\AddCategoryPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\AddCategoryPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\AddCategoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T17:48:43.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsersTabPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UsersTabPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\UsersTabPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UsersTabPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\UsersTabPage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwEYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:16:52.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsersTabPage.xaml",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UsersTabPage.xaml",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\UsersTabPage.xaml",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\UsersTabPage.xaml",
+              "RelativeToolTip": "222_Korygin\\Pages\\UsersTabPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T18:16:44.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\RegPage.xaml.cs",
+              "RelativeDocumentMoniker": "222_Korygin\\Pages\\RegPage.xaml.cs",
+              "ToolTip": "C:\\Users\\akory\\source\\repos\\222_Korygin\\222_Korygin\\Pages\\RegPage.xaml.cs",
+              "RelativeToolTip": "222_Korygin\\Pages\\RegPage.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:09:57.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
